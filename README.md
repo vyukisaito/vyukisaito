@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 ##
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vyukisaito&layout=compact)](https://github.com/vyukisaito)
 <br>
 <div style="display: inline_block">
 <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -10,4 +9,4 @@
 </div>
 
 ##
-Learning HTML, CSS and JavaScript
+Learning HTML, CSS, JavaScript and Python
